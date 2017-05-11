@@ -1,9 +1,9 @@
 User-agent: *
-Allow: /
-Allow: /archives/
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /vendors/
-Disallow: /fancybox/
-Sitemap: http://meesong.github.io/sitemap.xml
+Allow: /StaticBlog/
+Allow: /StaticBlog/archives/
+Disallow: /StaticBlog/js/
+Disallow: /StaticBlog/css/
+Disallow: /StaticBlog/fonts/
+Disallow: /StaticBlog/vendors/
+Disallow: /StaticBlog/fancybox/
+Sitemap: http://meesong.github.io/StaticBlog/sitemap.xml
