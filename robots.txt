@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /StaticBlog/
 Allow: /StaticBlog/archives/
-Disallow: /StaticBlog/js/
-Disallow: /StaticBlog/css/
+Allow: /StaticBlog/js/
+Allow: /StaticBlog/css/
 Disallow: /StaticBlog/fonts/
 Disallow: /StaticBlog/vendors/
 Disallow: /StaticBlog/fancybox/
